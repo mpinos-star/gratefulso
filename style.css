@@ -1,0 +1,25 @@
+.section-2{
+    align-items: center;
+    margin: 0 25% 0 25%;
+    background-color:#a8a5a1 ;
+}
+
+.p-2 {
+    display: inline;
+    margin-bottom: 0;
+    margin-right: 33%;
+    font-size: medium;
+    color: black;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+}
+
+li {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
